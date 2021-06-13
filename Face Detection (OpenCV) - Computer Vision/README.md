@@ -1,7 +1,3 @@
-# Face Detection - Computer Vision
-
-**Complete Video Tutorial:** https://youtu.be/hlCQ8XbpiLQ
-
 # Project Information
 
 The project uses opencv module and haarcascades file to detect faces in the images. 
