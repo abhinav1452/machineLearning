@@ -1,7 +1,3 @@
-# BigMart Sales Prediction Analysis - Regression
-
-**Complete Video Tutorial:** https://youtu.be/CD58mco2XqA
-
 # Dataset Information
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
